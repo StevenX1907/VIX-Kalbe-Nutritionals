@@ -1,8 +1,8 @@
 # Project-Based Internship: Kalbe Nutritionals x Rakamin Academy
 
-## Overview
+## Introduction
 
-This project was conducted as a final task for the Project-Based Internship with Kalbe Nutritionals x Rakamin Academy from August to September 2023. The aim of the project was to utilize data analysis and machine learning techniques to provide insights and recommendations for sales performance improvement.
+This project was conducted as a final task for the Project-Based Internship with Kalbe Nutritionals x Rakamin Academy from August to September 2023. The project aimed to utilize data analysis and machine learning techniques to provide insights and recommendations for sales performance improvement.
 
 ## Objectives
 
@@ -15,7 +15,7 @@ This project was conducted as a final task for the Project-Based Internship with
 
 - DBeaver
 - PostgreSQL
-- Python (including libraries such as Pandas, Matplotlib, and scikit-learn)
+- Python (including libraries such as Pandas, Matplotlib, and Scikit-learn)
 - ARIMA Time-Series Model
 - K-Means Clustering
 
