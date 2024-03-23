@@ -4,6 +4,10 @@
 
 This project was conducted as a final task for the Project-Based Internship with Kalbe Nutritionals x Rakamin Academy from August to September 2023. The project aimed to utilize data analysis and machine learning techniques to provide insights and recommendations for sales performance improvement.
 
+## Video Presentation: 
+https://www.youtube.com/watch?v=49MfaclzTj8
+
+
 ## Objectives
 
 - Perform Exploratory Data Analysis (EDA) using DBeaver and PostgreSQL.
@@ -48,6 +52,7 @@ The project includes the following tasks:
    - Using the Elbow Method and Silhouette Score to find the most appropriate K Value
    - Proposed business recommendations to the marketing team to enhance sales performance based on the segmentation results.
    - Segmentation Result:
+   
      <img width="359" alt="image" src="https://github.com/alexander-steven/VIX-Kalbe-Nutritionals/assets/74502692/4e2d4942-5618-4853-9e3b-8d7ef8048f7e">
 
 
